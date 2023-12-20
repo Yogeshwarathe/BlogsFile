@@ -1,0 +1,23 @@
+{
+  "name": "blogsfile",
+  "version": "1.0.0",
+  "description": "\"I am going to make blog file, there user post her Blog \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogeshwarathe/BlogsFile.git"
+  },
+  "author": "Yogesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yogeshwarathe/BlogsFile/issues"
+  },
+  "homepage": "https://github.com/Yogeshwarathe/BlogsFile#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
